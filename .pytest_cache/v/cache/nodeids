@@ -1,0 +1,5 @@
+[
+  "tests/test_tiny_json_lines.py::TestLines::test_basic",
+  "tests/test_tiny_json_lines.py::TestLines::test_empty",
+  "tests/test_tiny_json_lines.py::TestLines::test_type_error"
+]
